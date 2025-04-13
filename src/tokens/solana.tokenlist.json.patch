@@ -1,0 +1,17 @@
+{
+  "addToken": {
+    "chainId": 101,
+    "address": "HgTchsT7UY6eGtv4k8PZ5xtepP4qg9s6pQtPE7BSwoRM",
+    "symbol": "WORM",
+    "name": "Crypto Worm",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qme45En1vE8kqsv2FfvQpB1zHCXanVGe6gxJpRg9rGo7ME",
+    "tags": ["meme", "community", "fun"],
+    "extensions": {
+      "website": "https://cryptoworm.io",
+      "twitter": "https://twitter.com/CryptoWorm72",
+      "telegram": "https://t.me/CryptoWorm_Group",
+      "description": "Crypto Worm is a fun and vibrant meme token crawling into the future of crypto culture."
+    }
+  }
+}
